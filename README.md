@@ -5,8 +5,9 @@ I analyzed the companyâ€™s data and come up with recommendations for managementâ
 This Hr analysis provides a comprehensive view of workforce distribution and compensation patterns across gender, department, and location. The goal was to analyze employee demographics and salary equity within the organization and identify key insights for HR and management decision-making.
 
 ### Data sources 
-Palmoria group emp-data [download here](
-palmoria bonus data
+Palmoria group  emp data
+
+palmoria bonus data [download here](https://github.com/ghg001/Palmoria-Employee-Gender-Salary-Analysis-Dashboard/blob/main/Palmoria%20Group%20emp-data.csv)
 
 
 ### Tool
