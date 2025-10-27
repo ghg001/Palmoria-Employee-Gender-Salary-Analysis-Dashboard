@@ -31,7 +31,7 @@ In the data preparation stage i performed the following tasks;
 
 ### Dashboard
 <img width="1920" height="1020" alt="Screenshot 2025-10-27 091207" src="https://github.com/user-attachments/assets/6bc9eb61-7c95-4cbf-8b3d-11b4409c3985" />
-![image alt](https://github.com/user-attachments/assets/6bc9eb61-7c95-4cbf-8b3d-11b4409c3985)
+
 
 ### Dashboard Insights
 - Gender Distribution: Males (49%) and females (47%) are nearly balanced, with 4% unspecified
