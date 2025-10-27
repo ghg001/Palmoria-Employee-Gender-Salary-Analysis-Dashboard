@@ -27,4 +27,24 @@ In the data preparation stage i performed the following tasks;
 1. What is the gender distribution in the organization?
 2. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000
 3. Does Palmoria meet this requirement?
-4. How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.?
+4. How many employees fall into a band of <$20000, >$30000,>$60000 and >$100000
+
+### Dashboard
+<img width="1422" height="750" alt="pm portfolio" src="https://github.com/user-attachments/assets/ca53a889-65a2-4d30-9991-80770221ac4a" />
+
+
+### Dashboard Insights
+- Gender Distribution: Males (49%) and females (47%) are nearly balanced, with 4% unspecified
+
+- Salary Comparison: Average salaries show slight variation  Unknown (78K), Male (71K), Female (69K).
+
+- Departmental Spread: Product Management, Legal, and HR show gender balance, while Engineering and Support have higher male representation.
+- Location Breakdown: Major hubs include Kaduna, Abuja, and Lagos, each with a diverse gender mix.
+
+- Level Analysis: Senior and Executive levels show stronger male presence, indicating a potential leadership gap to address.
+
+### Outcome
+ This dashboard enables HR to:
+ - Identify diversity gaps across departments and levels.
+- Track pay parity and representation trends.
+- Strategically plan gender diversity and inclusion initiatives
