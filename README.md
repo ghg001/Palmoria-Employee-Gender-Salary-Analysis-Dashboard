@@ -48,3 +48,6 @@ In the data preparation stage i performed the following tasks;
  - Identify diversity gaps across departments and levels.
 - Track pay parity and representation trends.
 - Strategically plan gender diversity and inclusion initiatives
+
+###  Conclusion
+The “Employee Gender & Salary Analysis Dashboard” transforms raw HR data into actionable insights, enabling leadership to make informed decisions around workforce planning, pay equity, and inclusion.
