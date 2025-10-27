@@ -30,6 +30,8 @@ In the data preparation stage i performed the following tasks;
 4. How many employees fall into a band of <$20000, >$30000,>$60000 and >$100000
 
 ### Dashboard
+https://github.com/ghg001/Palmoria-Employee-Gender-Salary-Analysis-Dashboard/blob/92b5f7a27cfd9c51a1c4c5f3e03b20863fc29bcd/pm%20portfolio.jpg.png
+![pm](https://github.com/ghg001/Palmoria-Employee-Gender-Salary-Analysis-Dashboard/blob/92b5f7a27cfd9c51a1c4c5f3e03b20863fc29bcd/pm%20portfolio.jpg.png)
 
 ### Dashboard Insights
 - Gender Distribution: Males (49%) and females (47%) are nearly balanced, with 4% unspecified
