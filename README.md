@@ -30,6 +30,8 @@ In the data preparation stage i performed the following tasks;
 4. How many employees fall into a band of <$20000, >$30000,>$60000 and >$100000
 
 ### Dashboard
+<img width="1422" height="750" alt="pm portfolio jpg" src="https://github.com/user-attachments/assets/2018b7a0-5c37-4e40-90d7-065e38c06831" />
+
 ### Dashboard Insights
 - Gender Distribution: Males (49%) and females (47%) are nearly balanced, with 4% unspecified
 
