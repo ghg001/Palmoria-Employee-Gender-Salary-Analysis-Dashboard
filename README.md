@@ -30,7 +30,6 @@ In the data preparation stage i performed the following tasks;
 4. How many employees fall into a band of <$20000, >$30000,>$60000 and >$100000
 
 ### Dashboard
-1
 
 
 ### Dashboard Insights
