@@ -30,6 +30,8 @@ In the data preparation stage i performed the following tasks;
 4. How many employees fall into a band of <$20000, >$30000,>$60000 and >$100000
 
 ### Dashboard
+<img width="1355" height="744" alt="pf pm" src="https://github.com/user-attachments/assets/1a371fcc-9322-4200-bf8e-5111e58d55ab" />
+![image alt](https://github.com/user-attachments/assets/1a371fcc-9322-4200-bf8e-5111e58d55ab)
 
 
 ### Dashboard Insights
