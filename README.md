@@ -30,7 +30,7 @@ In the data preparation stage i performed the following tasks;
 4. How many employees fall into a band of <$20000, >$30000,>$60000 and >$100000
 
 ### Dashboard
-https://github.com/ghg001/Palmoria-Employee-Gender-Salary-Analysis-Dashboard/blob/main/Palmoria%20Group%20Bonus%20Rules.xlsx
+https://github.com/ghg001/Palmoria-Employee-Gender-Salary-Analysis-Dashboard/raw/main/pm%20portfolio.png
 
 
 ### Dashboard Insights
